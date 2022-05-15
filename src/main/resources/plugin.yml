@@ -1,0 +1,4 @@
+name: SchematicGenerator
+version: '${project.version}'
+main: fr.tartur.minecraft.lib.manager.novelium.schematicgenerator.SchematicGenerator
+api-version: 1.18
